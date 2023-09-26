@@ -5,12 +5,13 @@ Repositório para ser usado pelos candidatos à vaga de Desenvolvedor Fullstack 
 - Desenvolva uma aplicação web utilizando uma linguagem de programação e um framework de sua escolha. A aplicação deve consistir em um sistema de gerenciamento de tarefas, onde os usuários podem criar, visualizar, editar e excluir tarefas.
 
 ## Requisitos
-- Usar banco de dados
+- Usar banco de dados relacional
 - Campos mínimos da entidade de tarefa
     - Nome
     - Descrição
     - Realizado
     - Prioridade
+    - Data de criação
 - Criar CRUD de tarefas
 
 ## Instruções
