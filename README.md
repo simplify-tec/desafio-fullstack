@@ -14,7 +14,7 @@ Repositório para ser usado pelos candidatos à vaga de Desenvolvedor Fullstack 
     - Data de criação
 - Criar CRUD de tarefas
 - Deve ser possível mudar a ordem das tarefas por meio de _drag and drop_
-- (Opcional) Desenvolver aplicação dentro de um container Docker
+- (Opcional) Desenvolver aplicação dentro de um container Docker ou hospedar ela publicamente
 
 ## Instruções
 - Fazer um fork do repositório para sua conta pessoal do git
